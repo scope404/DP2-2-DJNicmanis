@@ -1,0 +1,23 @@
+p {
+    color: red;
+}
+
+.article {
+    padding: 40px;
+    border: 10px solid black;
+    margin: 15px;
+}
+
+#end{
+    background-color:bisque;
+}
+
+.box {
+    width: 500px;
+    height: 200px;
+    background-color: blueviolet;
+}
+
+.box p{
+    color:cyan;
+}
